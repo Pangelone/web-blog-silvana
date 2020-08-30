@@ -1,5 +1,7 @@
 {
   "name": "web-blog-sil",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "firebase-tools": "^8.9.2"
+  }
 }
